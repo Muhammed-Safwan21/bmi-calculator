@@ -1,6 +1,7 @@
 # BMI Calculator
 
 A simple React application that calculates BMI (Body Mass Index) based on user input for weight and height.
+[Live Demo](http://Muhammed-Safwan21.github.io/bmi-calculator)
 
 # Features
 Allows users to enter their weight in kilograms and height in centimeters.  
