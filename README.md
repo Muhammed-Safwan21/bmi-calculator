@@ -1,3 +1,40 @@
+# BMI Calculator
+
+A simple React application that calculates BMI (Body Mass Index) based on user input for weight and height.
+
+# Features
+Allows users to enter their weight in kilograms and height in centimeters.  
+Automatically calculates the BMI using the provided weight and height.  
+Displays the calculated BMI and the corresponding weight category.  
+Applies different background colors to the result box based on the weight category.  
+
+
+# Technologies Used
+React  
+JavaScript  
+HTML  
+CSS  
+
+# Usage
+
+Enter your weight in kilograms in the provided input field.  
+Enter your height in centimeters in the provided input field.  
+The BMI value will be calculated and displayed.  
+The weight category will be shown along with a corresponding background color in the result box.  
+
+
+# BMI Categories
+The weight categories are defined as follows:
+
+BMI < 18.5: Underweight (Blue background color)  
+BMI >= 18.5 and BMI < 25: Normal Weight (Green background color)  
+BMI >= 25 and BMI < 30: Overweight (Yellow background color)  
+BMI >= 30: Obesity (Red background color)  
+
+# License
+This project is licensed under the MIT License.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
